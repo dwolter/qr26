@@ -1,0 +1,77 @@
+.style2 {
+        font-family: Helvetica, sans-serif;
+        
+}
+.style3 {color: #000000}
+body {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        background-color: #666666;
+}
+a:link {
+        color: #333399;
+        text-decoration: none;
+}
+a:visited {
+        text-decoration: none;
+        color: #333399;
+}
+a:hover {
+        text-decoration: underline;
+        color: #993333;
+}
+a:active {
+        text-decoration: none;
+        color: #993333;
+}
+.style11 {      font-family: Helvetica, sans-serif;
+        
+        color: #FFFFFF;
+}
+.style12 {
+        
+        color: #FFFFFF;
+}
+.style13 {font-family: Helvetica, sans-serif}
+.style14 {
+        color: #000000
+}
+
+.style14 {
+        
+        font-family: Helvetica, sans-serif;
+}
+.style16 {font-size: 14px}
+.typetet {
+        color: #000000;
+        font-family: Helvetica, sans-serif;
+}
+.style2 table tr th .style14 .style14 .typetet {
+        font-family: "Helvetica Light", "sans-serif";
+        line-height: 1.6;
+}
+.style2 table tr th .style14 .style14 a strong .style16 {
+        line-height: 1.2;
+}
+.style2 table tr th .style14 .style14 a strong .style16 {
+        line-height: 1.6;
+}
+.style2 table tr .style3.style14 div .style13 {
+        color: #000;
+}
+.style2 table tr .style3.style14 div .style13 {
+        font-family: "Helvetica Light", "sans-serif";
+        line-height: 1.6;
+}
+.style2 table tr th .style14 .style14 a strong .style16 {
+        font-family: "Helvetica Light", "sans-serif";
+}
+.style2 table tr th .style14 .style14 a strong .style16 {
+}
+.style2 table tr th .style14 .style14 a strong .style16 {
+}
+.bonus {
+        font-weight: bold;
+}
